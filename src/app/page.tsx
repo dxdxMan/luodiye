@@ -20,7 +20,7 @@ const WebinarPage = () => {
               </p>
               <p className="mt-2 text-lg text-slate-700">美股交易旅程分享</p>
               <p className="mt-6 text-sm text-slate-600">
-                請點選下方按鈕有更多場次和時段可選擇
+                請點選下方按鈕添加我的whatsApp获取更多优质股咨询
               </p>
               <div className="mt-5 flex flex-col gap-4 sm:flex-row sm:items-center">
                 {/* 跳转到WhatsApp */}
