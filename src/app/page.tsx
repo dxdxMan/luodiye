@@ -26,7 +26,7 @@ const WebinarPage = () => {
                 {/* 跳转到WhatsApp */}
                 <button className="btn-primary">
                   <a
-                    href="https://wa.me/+19486379457?text=我對於艾佳说美股的線上教學講座很感興趣，想要了解更多資訊！"
+                    href="http://dbc.pw/Xp5Uy5"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -206,7 +206,7 @@ const WebinarPage = () => {
           <div className="mt-6">
             <button className="btn-primary">
               <a
-                href="https://wa.me/+19486379457?text=我對於艾佳说美股的線上教學講座很感興趣，想要了解更多資訊！"
+                href="http://dbc.pw/Xp5Uy5"
                 className="text-white no-underline"
               >
                 我想要參加
