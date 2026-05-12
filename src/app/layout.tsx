@@ -27,7 +27,7 @@ export default function RootLayout({
               var e=ttq._i[t]||[],n=0;n<ttq.methods.length;n++)ttq.setAndDefer(e,ttq.methods[n]);return e},ttq.load=function(e,n){var r="https://analytics.tiktok.com/i18n/pixel/events.js",o=n&&n.partner;ttq._i=ttq._i||{},ttq._i[e]=[],ttq._i[e]._u=r,ttq._t=ttq._t||{},ttq._t[e]=+new Date,ttq._o=ttq._o||{},ttq._o[e]=n||{};var a=document.createElement("script")
               ;a.type="text/javascript",a.async=!0,a.src=r+"?sdkid="+e+"&lib="+t;var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(a,s)};
 
-              ttq.load('D80TKRBC77U3PBBHMK70');
+              ttq.load('D81HG4BC77U0LK4NBADG');
               ttq.page();
               console.log('TikTok Pixel 已触发'); // 添加这一行进行本地调试
             }(window, document, 'ttq');
